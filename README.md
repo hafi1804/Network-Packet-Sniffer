@@ -163,4 +163,4 @@ This project is intended solely for educational and authorized network monitorin
 
 ## Author
 
-M Hafiza **Intern ID:** CITS1108 **Project:** SQL Injection Vulnerability Scanner **Duration:** 8 Weeks
+M Hafiza **Intern ID:** CITS1108 **Project:** Network Packet Sniffer **Duration:** 8 Weeks
